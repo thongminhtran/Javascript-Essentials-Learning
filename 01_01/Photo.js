@@ -34,7 +34,7 @@ const Photo = ({
 
   return (
     <img
-      key={key}
+      key={key}z
       style={onClick ? { ...imgStyle, ...imgWithClick } : imgStyle}
       {...photo}
       onClick={onClick ? handleClick : null}

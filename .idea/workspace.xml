@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e27d2f40-c5aa-46a5-a926-268584d30d79" name="Default Changelist" comment="Second push for ADDME file" />
+    <list default="true" id="e27d2f40-c5aa-46a5-a926-268584d30d79" name="Default Changelist" comment="Push and Commit files from Tutorials">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_01/Photo.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_01/Photo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_04/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/01_04/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,14 +42,38 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="liveEdit" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html (2)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Javascript-Essentials-Learning/04_01/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Javascript-Essentials-Learning/09_08/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Javascript-Essentials-Learning/01_04/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/04_01/script.js" working-dir="$PROJECT_DIR$/04_01">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html (2)" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="Node.js.script.js" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -56,6 +85,7 @@
       <updated>1631463108539</updated>
       <workItem from="1631463109607" duration="964000" />
       <workItem from="1631464728889" duration="2346000" />
+      <workItem from="1631467136742" duration="7950000" />
     </task>
     <task id="LOCAL-00001" summary="First push for ADDME file">
       <created>1631464068355</created>
@@ -71,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631466951579</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Push and Commit files from Tutorials">
+      <created>1631467174095</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1631467174095</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,16 +128,34 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First push for ADDME file" />
-    <option name="LAST_COMMIT_MESSAGE" value="First push for ADDME file" />
+    <MESSAGE value="Push and Commit files from Tutorials" />
+    <option name="LAST_COMMIT_MESSAGE" value="Push and Commit files from Tutorials" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1059" height="559" key="GridCell.Tab.0.bottom" timestamp="1631505691063">
+      <screen x="1920" y="-514" width="1080" height="1880" />
+    </state>
+    <state width="1059" height="559" key="GridCell.Tab.0.bottom/1920.-514.1080.1880/0.0.1920.1040@1920.-514.1080.1880" timestamp="1631505691063" />
+    <state width="1059" height="559" key="GridCell.Tab.0.center" timestamp="1631505691063">
+      <screen x="1920" y="-514" width="1080" height="1880" />
+    </state>
+    <state width="1059" height="559" key="GridCell.Tab.0.center/1920.-514.1080.1880/0.0.1920.1040@1920.-514.1080.1880" timestamp="1631505691063" />
+    <state width="1059" height="559" key="GridCell.Tab.0.left" timestamp="1631505691062">
+      <screen x="1920" y="-514" width="1080" height="1880" />
+    </state>
+    <state width="1059" height="559" key="GridCell.Tab.0.left/1920.-514.1080.1880/0.0.1920.1040@1920.-514.1080.1880" timestamp="1631505691062" />
+    <state width="1059" height="559" key="GridCell.Tab.0.right" timestamp="1631505691063">
+      <screen x="1920" y="-514" width="1080" height="1880" />
+    </state>
+    <state width="1059" height="559" key="GridCell.Tab.0.right/1920.-514.1080.1880/0.0.1920.1040@1920.-514.1080.1880" timestamp="1631505691063" />
     <state x="1961" y="71" key="SettingsEditor" timestamp="1631463993342">
       <screen x="1920" y="-514" width="1080" height="1880" />
     </state>
     <state x="1961" y="71" key="SettingsEditor/1920.-514.1080.1880/0.0.1920.1040@1920.-514.1080.1880" timestamp="1631463993342" />
-    <state x="2052" y="146" key="Vcs.Push.Dialog.v2" timestamp="1631466976972">
-      <screen x="1920" y="-514" width="1080" height="1880" />
+    <state x="235" y="365" key="Vcs.Push.Dialog.v2" timestamp="1631467183174">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="235" y="365" key="Vcs.Push.Dialog.v2/1920.-514.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1631467183174" />
     <state x="2052" y="146" key="Vcs.Push.Dialog.v2/1920.-514.1080.1880/0.0.1920.1040@1920.-514.1080.1880" timestamp="1631466976972" />
     <state x="2277" y="340" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1631466991462">
       <screen x="1920" y="-514" width="1080" height="1880" />
@@ -110,5 +165,9 @@
       <screen x="1920" y="-514" width="1080" height="1880" />
     </state>
     <state x="2194" y="327" key="git4idea.remote.GitConfigureRemotesDialog/1920.-514.1080.1880/0.0.1920.1040@1920.-514.1080.1880" timestamp="1631466942874" />
+    <state x="2123" y="-79" width="672" height="678" key="search.everywhere.popup" timestamp="1631511070658">
+      <screen x="1920" y="-514" width="1080" height="1880" />
+    </state>
+    <state x="2123" y="-79" width="672" height="678" key="search.everywhere.popup/1920.-514.1080.1880/0.0.1920.1040@1920.-514.1080.1880" timestamp="1631511070658" />
   </component>
 </project>
